@@ -97,6 +97,7 @@ catkin_package(
 	std_msgs
 	tf
 	rosbag
+	image_transport
   yaml_cpp_catkin
 )
 
